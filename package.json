@@ -1,0 +1,12 @@
+{
+  "name": "act360",
+  "version": "0.1.0",
+  "repo": "hcnn/act360",
+  "description": "Date difference in years according to the Actual/360 daycount method",
+  "keywords": ["daycount", "date difference", "year fraction", "Actual/360", "Act/360", "A/360", "French"],
+  "license": "MIT",
+  "src": ["act360.c", "act360.h"],
+  "dependencies": {
+    "hcnn/julianday": "0.1.0"
+  }
+}
